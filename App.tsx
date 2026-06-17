@@ -6,6 +6,7 @@ import viteLogo from '/vite.svg'
  import About from './about.tsx'
 
 import Contactus from './contactus.tsx'
+import Footer from './footer.tsx'
 import './App.css'
 
 // import image from '/hoston_logo.png'
